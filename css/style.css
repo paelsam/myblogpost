@@ -1,0 +1,17 @@
+body {
+    background-color: #333;
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#cabezera {
+    width: 70%;
+    margin: 0 auto;
+    background: #ffffff;
+    border: rgb(179, 178, 178) solid 3px;
+}
+
+#post {
+    font-size: 32px;
+}
