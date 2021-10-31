@@ -1,5 +1,8 @@
 Hola, un joven Colombiano escribiendo...
 
-Hola Mundo en diferentes lenguajes de programcion: 
+Hola Mundo en diferentes lenguajes de programcion:
 
 Python: print("Hola Mundo")
+JavaScript: alert("Hola Mundo")
+C#: Console.WriteLine("Hola Mundo")
+C++: cout << "Hola Mundo" << endl;
