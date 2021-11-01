@@ -9,20 +9,26 @@ body {
     width: 70%;
     margin: 0 auto;
     background: #ffffff;
-    padding: 1em;
     border: rgb(179, 178, 178) solid 3px;
 }
 
 #header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     background: #ff7f07;
-    border: #333 solid 1px;
-    border-radius: 10px;
-    box-shadow: #333 0px 0px 10px;
+    border: #fff solid 1px;
     color: whitesmoke;
     text-align: center;
     font-size: 24px;
+    padding: 0 2em;
+}
+
+#header div {
+    display: flex;
 }
 
 #post {
     font-size: 18px;
+    padding: 1.5em;
 }
